@@ -5,7 +5,7 @@ A lightweight, interactive web-based quiz application built using HTML, CSS, and
 ## 🚀 Features
 
 * **Dynamic Question Loading:** Questions and options are injected into the DOM dynamically using JavaScript.
-* **Instant Visual Feedback:** * 🟩 Highlights the correct answer in green.
+* **Instant Visual Feedback:**  🟩 Highlights the correct answer in green.
     * 🟥 Highlights the selected incorrect answer in red.
 * **Score Tracking:** Keeps track of your score and displays the final result after the last question.
 * **Sleek UI:** Features a modern, responsive dark-themed interface.
